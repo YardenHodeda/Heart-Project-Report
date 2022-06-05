@@ -31,7 +31,7 @@ To analyze this group, I decided to find a dataset related to people with heart 
 4.	Third of the people with heart diseases in the survey also have diabetes and 18% of them have skin cancer and asthma.
 
 ## About The Process 
-I downloaded the dataset from Kaggle (Link) and imported it into MySQL Workbench. After making sure all the data was properly imported, I started to run queries within the workbench to explore the data and to find out if there are interesting points that I might find. After the exploration I decided to create the tables I needed to answer my questions and I exported them to a CSV file. The tables were now imported to Power BI, and I started to make a dashboard to visualize the data and to present it neatly.
+I downloaded the [dataset from Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) and imported it into MySQL Workbench. After making sure all the data was properly imported, I started to run queries within the workbench to explore the data and to find out if there are interesting points that I might find. After the exploration I decided to create the tables I needed to answer my questions and I exported them to a CSV file. The tables were now imported to Power BI, and I started to make a dashboard to visualize the data and to present it neatly.
 
 ## Question 1 - What is the distribution of people with heart diseases based on gander?
 As we can see in the pie chart 58.96% of people with heart diseases are men and 41.04% of people with heart diseases are Women. It is a 3:2 ratio which means that if you are man, you are more likely to have a heart disease compared to a woman. 
